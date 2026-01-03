@@ -1,2 +1,2 @@
 # *PANDAS*
-<p style="color:red>Ai Library<p>
+<p style="color:red;">Ai Library<p>
